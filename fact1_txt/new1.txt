@@ -1,0 +1,42 @@
+Compañia,: ASPECT LANGUAGE SCHOOLS LTDA. Kaplan Internationa
+01- 390424
+Hab.No. / Room No.,9031
+Llegada / Arrival,30-05-19
+Salida / Departure,10-06-19
+Cajero / Cashier
+Nit/CC,: 800190218-4
+Huesped,:  ASPECT LANGUAGE SCHOOLS LTDA.
+30-05-19,GUEST BALANCE FORWA,,"8,074,303"
+05-06-19,Alojamiento incluido Internet [NA Room] Routed From SOLANO GLORIA CLARA Of Room #,"309,400",
+05-06-19,Alojamiento incluido Internet [NA Room] Routed From ESCUDERO INGRID MAGALI Of Roo,"309,400",
+05-06-19,Alojamiento incluido Internet [NA Room] Routed From BRANDO MONTEJO CONCEPCION,"309,400",
+05-06-19,Alojamiento incluido Internet [NA Room] Routed From MEJIA DE GIRALDO CONSUELO Of,"309,400",
+05-06-19,Alojamiento incluido Internet [NA Room] Routed From ACOSTA CARMENZA Of Room #071,"309,400",
+05-06-19,Alojamiento incluido Internet [NA Room] Routed From URIBE ANA Of Room #0734,"309,400",
+05-06-19,Alojamiento incluido Internet [NA Room] Routed From GRISALES RUDAS DIANA MARIA O,"309,400",
+05-06-19,Alojamiento incluido Internet [NA Room] Routed From GOMEZ MUKUMOTO CRISTINE MAR,"309,400",
+06-06-19,Banquetes Alimentos [101]007395920190606165933,"3,033,963",
+06-06-19,Banquetes Alquiler Equipos [101]007395920190606165933,"600,040",
+06-06-19,Servicio Banquetes [101]007395920190606165933,"303,400",
+06-06-19,Alojamiento incluido Internet [NA Room] Routed From SOLANO GLORIA CLARA Of Room #,"309,400",
+06-06-19,Alojamiento incluido Internet [NA Room] Routed From ESCUDERO INGRID MAGALI Of Roo,"309,400",
+06-06-19,Alojamiento incluido Internet [NA Room] Routed From BRANDO MONTEJO CONCEPCION,"309,400",
+06-06-19,Alojamiento incluido Internet [NA Room] Routed From URIBE ANA Of Room #0525,"309,400",
+06-06-19,Alojamiento incluido Internet [NA Room] Routed From MEJIA DE GIRALDO CONSUELO Of,"309,400",
+06-06-19,Alojamiento incluido Internet [NA Room] Routed From ACOSTA CARMENZA Of Room #071,"309,400",
+06-06-19,Alojamiento incluido Internet [NA Room] Routed From GRISALES RUDAS DIANA MARIA O,"309,400",
+06-06-19,Alojamiento incluido Internet [NA Room] Routed From GOMEZ MUKUMOTO CRISTINE MAR,"309,400",
+07-06-19,Bar Cafe Alimentos [102]005518220190607173929,"9,500",
+07-06-19,Bar Cafe Bebidas [102]005518220190607173929,"237,200",
+07-06-19,Servicio Bar Cafe [102]005518220190607173929,"22,842",
+07-06-19,Banquetes Alimentos [125]007396420190607111059,"3,033,963",
+07-06-19,Banquetes Alquiler Equipos [125]007396420190607111059,"735,040",
+07-06-19,Servicio Banquetes [125]007396420190607111059,"303,400",
+07-06-19,Alojamiento incluido Internet [NA Room] Routed From SOLANO GLORIA CLARA Of Room #,"309,400",
+07-06-19,Alojamiento incluido Internet [NA Room] Routed From ESCUDERO INGRID MAGALI Of Roo,"309,400",
+07-06-19,Alojamiento incluido Internet [NA Room] Routed From BRANDO MONTEJO CONCEPCION,"309,400",
+07-06-19,Alojamiento incluido Internet [NA Room] Routed From URIBE ANA Of Room #0525,"309,400",
+07-06-19,Alojamiento incluido Internet [NA Room] Routed From MEJIA DE GIRALDO CONSUELO Of,"309,400",
+07-06-19,Alojamiento incluido Internet [NA Room] Routed From ACOSTA CARMENZA Of Room #071,"309,400",
+07-06-19,Alojamiento incluido Internet [NA Room] Routed From GRISALES RUDAS DIANA MARIA O,"309,400",
+07-06-19,Alojamiento incluido Internet [NA Room] Routed From GOMEZ MUKUMOTO CRISTINE MAR,"309,400",
